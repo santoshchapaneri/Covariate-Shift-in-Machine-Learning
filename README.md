@@ -4,7 +4,7 @@ Paper published in IEEE Journal:
 
 S. V. Chapaneri and D. J. Jayaswal, "Covariate Shift Adaptation for Structured Regression With Frank–Wolfe Algorithms," in IEEE Access, vol. 7, pp. 73804-73818, 2019, doi: 10.1109/ACCESS.2019.2920486.
 
-https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8727878
+https://ieeexplore.ieee.org/document/8727878
 
 Book Chapter published in Handbook of Research on Machine Learning:
 https://www.appleacademicpress.com/handbook-of-research-on-machine-learning-foundations-and-applications/9781774638682

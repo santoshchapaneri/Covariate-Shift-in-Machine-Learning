@@ -1,4 +1,10 @@
 # Covariate-Shift-in-Machine-Learning
+
+Paper published in IEEE Journal:
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8727878
+
+Book Chapter published in Handbook of Research on Machine Learning:
+https://www.appleacademicpress.com/handbook-of-research-on-machine-learning-foundations-and-applications/9781774638682
  
 ![image](https://user-images.githubusercontent.com/17112412/208481417-f7a4def6-a93d-4c2a-a25f-86506bec425b.png)
 
